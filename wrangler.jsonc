@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "kimi-k2p5-turbo-proxy",
+	"upload_source_maps": true,
+	"observability": {
+		"enabled": true
+	},
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_name": "kimi25t-db",
+			"database_id": "e7a8921b-946b-4cc1-b824-de9f83330f69"
+		}
+	]
+}
